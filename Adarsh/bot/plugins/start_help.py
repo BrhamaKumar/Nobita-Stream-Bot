@@ -136,3 +136,4 @@ async def help_handler(bot, message):
 <b>╰━━━━〔ᴘʟᴇᴀꜱᴇ sᴜᴘᴘᴏʀᴛ〕</b>""",
         
         disable_web_page_preview=True
+    )
