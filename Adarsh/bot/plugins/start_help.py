@@ -126,7 +126,7 @@ async def help_handler(bot, message):
 
 <b>╭━━━━〔ꜰɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ〕</b>
 ┃
-┣⪼<b>ɴᴀᴍᴇ : <a href='https://telegram.me/ContentmebkpBot>Brhama Kumar</a></b>
+┣⪼<b>ɴᴀᴍᴇ : <a href='https://telegram.me/ContentmebkpBot'>Brhama Kumar</a></b>
 ┣⪼<b>ꜱᴇʀᴠᴇʀ : ʜᴇʀᴜᴋᴏ</b>
 ┣⪼<b>ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ</b>
 ┣⪼<b>ᴜᴘᴅᴀᴛᴇꜱ : <a href='https://t.me/+NgtS0cZ9FaFmOWNl'>ᴜᴘᴅᴀᴛᴇꜱ</a></b>
