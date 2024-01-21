@@ -11,7 +11,7 @@ class Var(object):
     API_ID = int(getenv('API_ID', '20810825'))
     API_HASH = str(getenv('API_HASH', '707e67f53b4593a3e9b6b424311f84d0'))
     BOT_TOKEN = str(getenv('BOT_TOKEN', '6602440459:AAEKnqKvIJDEs6Qb4qRpAX8bsqk2579EqKw'))
-    name = str(getenv('name', 'Nobita-Stream-Bot'))
+    name = str(getenv('name', 'File_To_Link_Url_to_Link_Bot'))
     SLEEP_THRESHOLD = int(getenv('SLEEP_THRESHOLD', '60'))
     WORKERS = int(getenv('WORKERS', '4'))
     BIN_CHANNEL = int(getenv('BIN_CHANNEL', '-1002133784154'))
